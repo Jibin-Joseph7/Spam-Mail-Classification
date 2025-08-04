@@ -49,10 +49,4 @@ How to Run
 
 ---
 
-**Power BI Dahboard**
-
-"C:\Users\jobin joseph\OneDrive\Pictures\Screenshots\Screenshot 2025-07-26 110949.png"
-
-Screenshot 2025-07-26 110949.png
-
-Screenshot 2025-07-26 110949
+![Power BI Dashbord](<Screenshot 2025-07-26 110949.png>)
